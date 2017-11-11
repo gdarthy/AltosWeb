@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="vendor/nette/utils/src"/>
+	<buildpathentry kind="src" path="vendor/nette/finder/src"/>
+	<buildpathentry kind="src" path="vendor/nette/database/src"/>
+	<buildpathentry kind="src" path="vendor/nette/application/src"/>
+	<buildpathentry kind="src" path="vendor/composer"/>
+	<buildpathentry kind="src" path="vendor/latte/latte/src"/>
+	<buildpathentry kind="src" path="vendor/nette/neon/src"/>
+	<buildpathentry kind="src" path="vendor/nette/tester/src"/>
+	<buildpathentry kind="src" path="vendor/nette/bootstrap/src"/>
+	<buildpathentry kind="src" path="vendor/nette/di/src"/>
+	<buildpathentry kind="src" path="vendor/nette/mail/src"/>
+	<buildpathentry kind="src" path="vendor/nette/robot-loader/src"/>
+	<buildpathentry kind="src" path="vendor/nette/security/src"/>
+	<buildpathentry kind="src" path="vendor/nette/php-generator/src"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/nette/component-model/src"/>
+	<buildpathentry kind="src" path="vendor/nette/reflection/src"/>
+	<buildpathentry kind="src" path="vendor/tracy/tracy/src"/>
+	<buildpathentry kind="src" path="vendor/nette/forms/src"/>
+	<buildpathentry kind="src" path="vendor/nette/caching/src"/>
+	<buildpathentry kind="src" path="vendor/nette/http/src"/>
+</buildpath>

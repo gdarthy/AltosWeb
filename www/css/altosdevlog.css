@@ -1,0 +1,194 @@
+
+body { 
+    background: url(../img/altos-back.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.logo{
+    position: absolute;
+    margin-top: -10px;
+}
+
+.footer-area {
+    height: 60px;
+    background-color: #110a05;
+}
+
+.clear{
+    clear: both;
+}
+
+.content-panel{
+    margin-top: 250px;
+
+}
+
+.footer-text{
+    position: relative;
+    margin-top: 20px;
+}
+
+/*navbar*/
+.navbar-top{
+    margin-top: 20px;
+}
+
+.navbar-collapse.collapse.in, .collapsing{
+    border: none;
+    /*position: absolute;*/
+    margin-left: 35%!important;
+}
+
+.navbar-nav{
+    margin: 0;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 0px;
+}
+
+.container-fluid .jumbotron {
+    border-radius: 0px;
+    color: #110a05;
+}
+
+.navbar-default {
+    background-color: #110a05;
+    border-color: #E7E7E7;
+}
+
+.navbar-default .navbar-toggle{
+    border-color: #6b543a;
+}
+
+.navbar-toggle{
+    border: 2px solid transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #6b543a!important;
+}
+
+/*logs panel*/
+.border-image{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    border-top: 6px solid #110a05;
+    border-right: 6px solid #110a05; 
+    border-left: 6px solid #110a05;
+}
+.articles-panel{
+    background-color: #110a05;
+    
+}
+
+.log{
+    position: relative;
+    padding: 30px 50px;	
+    color: #aeaa96;
+}
+
+.log-title{
+    position: relative;
+    margin-bottom: 20px;
+    font-size: large;
+    color: #d6cc8d;
+}
+
+.log-preamble{
+    text-align: justify;
+    overflow: hidden;
+}
+
+a:active, a:hover, a:visited, a:link{
+    color: inherit;
+}
+
+img.content-image{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    display: block;
+    margin: 0 auto;
+}
+
+img.img-title{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.btn{
+    border-radius: 2px;
+}
+
+.btn-default, .btn-default:focus, .btn-default.focus{
+    color: #d6cc8d;
+    background-color: #474747;
+    border-color: #d6cc8d;
+}
+
+.btn-default:hover, .btn-default:visited, .btn-default:active, .btn-default:focus, .btn-default.active, .btn-default.focus{
+    color: #d6cc8d;
+    background-color: #6f6f6f;
+    border-color: #d6cc8d;
+}
+
+.send-button{
+    margin-top: 30px;
+    float: right;
+}
+
+textarea{
+    border: 1px solid #d6cc8d;
+    border-radius: 2px;
+    resize: none;
+}
+
+textarea.form-control{
+    margin-bottom: 35px;
+    height: 185px;
+    padding: 0 0 0 0;
+}
+
+.btn-offset{
+    margin-bottom: 35px;
+}
+
+textarea.title{
+    width: 100%;
+}
+
+select{
+    color: #110a05;
+}
+
+.date{
+    margin: -15px 0 20px 0;
+}
+
+.glyphicon.glyphicon-calendar {
+    margin-right: 5px;
+}
+.glyphicon.glyphicon-comment {
+    margin-left: 15px;
+}
+
+a.login{
+    text-decoration: none;
+}
+
+.login-form{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 50px;
+}
+
+a.lang{
+    color: #b53333;
+}
